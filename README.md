@@ -7,5 +7,5 @@ When the SW-420 sensor detects vibration, it transmits the vibration data to the
 ## How it works
 
 
-Visit the idea build kernel and credit https://github.com/ivandavidov/minimal
-![This is image](https://github.com/saharatch14/Vibration-detector-system/blob/81e08efbea2ed095c0ed2d58089ad9cf00947d47/Structure-concept.jpg)
+Visit the idea build kernel and credit: https://github.com/ivandavidov/minimal
+![vibration detector system structure](https://github.com/saharatch14/Vibration-detector-system/blob/1eda9d54b4b46a8e511df3cfcf909c8e2b37df68/Structure-concept.jpg)
